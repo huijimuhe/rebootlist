@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1263234b-187d-48ca-866f-5057e17a6fa0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/screens/splash/splash_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/splash/splash_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/task/add_task_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/task/add_task_page.dart" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_animController</find>
+      <find>rebootlist</find>
+      <find>local</find>
+      <find>AppStateEntity</find>
+      <find>maxline</find>
+      <find>AddTaskPage</find>
+      <find>_onLoad</find>
+      <find>tid</find>
+      <find>span</find>
+      <find>_isLoading</find>
+      <find>header_bg2</find>
+      <find>padding</find>
+      <find>&quot;init</find>
+      <find>Gradient</find>
+      <find>persis</find>
+      <find>Column</find>
+      <find>task.na</find>
+      <find>didUpdateWidget</find>
+      <find>dayDigits</find>
+      <find>SlideCountdownClock</find>
+      <find>SlideDirection</find>
+      <find>print</find>
+      <find>timeStream</find>
+      <find>print(</find>
+      <find>from</find>
+      <find>CREATE</find>
+      <find>BottomShowWidget</find>
+      <find>circle</find>
+      <find>doExit</find>
+      <find>signingConfigs</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>oid</replace>
+      <replace>Log</replace>
+      <replace>TaskRepository</replace>
+      <replace>_db.database</replace>
+      <replace>text</replace>
+      <replace>AddTask</replace>
+      <replace>taskName</replace>
+      <replace>TaskManager</replace>
+      <replace>.oid</replace>
+      <replace>UcenterTab</replace>
+      <replace>TaskDetailPage</replace>
+      <replace>rebootlist</replace>
+      <replace>TaskTab</replace>
+      <replace>Page</replace>
+      <replace>DetailPage</replace>
+      <replace>repo</replace>
+      <replace>AddLogPage</replace>
+      <replace>SlideCountupClock</replace>
+      <replace>TimeSelectorWidget</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/lib</dir>
+      <dir>$PROJECT_DIR$/lib/screens</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aXGm4zZRxfP9SXxpSiG55Rj3HO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/utils" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/app" />
+      <recent name="$PROJECT_DIR$/assets/icons" />
+      <recent name="$PROJECT_DIR$/lib/state" />
+      <recent name="$PROJECT_DIR$/lib/screens/home" />
+      <recent name="$PROJECT_DIR$/lib/screens/task" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/utils" />
+      <recent name="$PROJECT_DIR$/lib/widgets" />
+      <recent name="$PROJECT_DIR$/lib/widgets/countdown" />
+      <recent name="$PROJECT_DIR$/lib/screens/config" />
+      <recent name="$PROJECT_DIR$/lib/screens/task/widgets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1263234b-187d-48ca-866f-5057e17a6fa0" name="Default Changelist" comment="" />
+      <created>1580266128302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580266128302</updated>
+    </task>
+    <task id="LOCAL-00001" summary="[MILESTONE]初始化项目">
+      <created>1580357192990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580357192990</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[UPDATE]把ui撸出来了">
+      <created>1580403011581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580403011582</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[UPDATE]更新数据库流程">
+      <created>1580636600936</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580636600936</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[MILESTONE]alpha版结束">
+      <created>1580786288773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580786288774</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[UPDATE]修改taskdetal page;add task添加小时">
+      <created>1580792207547</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580792207547</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[UPDATE]修正一些bug">
+      <created>1580800714085</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580800714085</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[UPDATE]修正log progress的bug">
+      <created>1580824829414</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580824829414</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[UPDATE]修正log progress的bug">
+      <created>1581903093364</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581903093364</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="[MILESTONE]初始化项目" />
+    <MESSAGE value="[UPDATE]把ui撸出来了" />
+    <MESSAGE value="[UPDATE]更新数据库流程" />
+    <MESSAGE value="[MILESTONE]alpha版结束" />
+    <MESSAGE value="[UPDATE]修改taskdetal page;add task添加小时" />
+    <MESSAGE value="[UPDATE]修正一些bug" />
+    <MESSAGE value="[UPDATE]修正log progress的bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="[UPDATE]修正log progress的bug" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/models/log_entity.dart</url>
+          <line>86</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="FlutterRunConfigurationType">
+        <watch expression="it['isCompleted']==0" language="Dart" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>this.timeLeft.inHours</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.timeLeft</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.timeleft</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>timeLeft</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(this.timeLeft.inHours % 24) ~/ 10</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(timeLeft.inHours % 24) ~/ 10</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>it['isCompleted']==0</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>it['isCompleted']</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>it['isCOmpleted']</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

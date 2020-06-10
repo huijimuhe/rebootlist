@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amap.api:navi-3dmap:6.5.0_3dmap6.5.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amap.api/navi-3dmap/6.5.0_3dmap6.5.0/50d218372238e0dab0e736921c10004ee6ccfddd/navi-3dmap-6.5.0_3dmap6.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amap.api/navi-3dmap/6.5.0_3dmap6.5.0/2ae1d15c9b55875a3366fabf245d1676571bee3d/navi-3dmap-6.5.0_3dmap6.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
